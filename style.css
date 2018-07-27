@@ -143,7 +143,7 @@ body {
   }
 }
 
-@media only screen and (max-width: 350px) and (min-width: 300px) {
+@media only screen and (max-width: 380px) and (min-width: 300px) {
 
 h1 {
     font-weight: 100;
