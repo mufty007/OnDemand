@@ -22,7 +22,7 @@ body {
     background:  linear-gradient(
       rgb(55, 52, 56), 
       rgba(37, 119, 187, 0.5)
-    ), url("./img/bg.jpg");
+    ), url("./bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
